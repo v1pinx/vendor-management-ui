@@ -19,3 +19,6 @@ The **Vendor Cab and Driver Onboarding System** is a robust solution for managin
 -   **Mock Data** for testing and development purposes.
 ## Live Link
  - Access the live version here: [Vendor-Management-UI](https://vendor-management-ui-five.vercel.app/)
+## Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/aBy5BN3VppQ/maxresdefault.jpg)](https://youtu.be/aBy5BN3VppQ)
+
