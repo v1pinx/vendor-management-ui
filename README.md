@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Vendor Cab and Driver Onboarding & Vendor Hierarchy Management
 
-First, run the development server:
+The **Vendor Cab and Driver Onboarding System** is a robust solution for managing multi-level vendor hierarchies, vehicle onboarding, document verification, and role-based access control. This system ensures smooth fleet management, structured delegation, and regulatory compliance.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**1. Multi-Level Vendor Hierarchy**
+**2. Super Vendor Access & Delegation**
+ **3. Sub-Vendor Fleet & Driver Management**
+ **4. Super Vendor Control & Monitoring**
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Technologies Used
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+-   **ReactFlow** for visualizing vendor hierarchy and workflows.
+-   **Next.js** for server-side rendering and optimized performance.
+-   **Tailwind CSS** for efficient styling and responsive design.
+-   **ShadCN** for modern UI components.
+-   **Mock Data** for testing and development purposes.
+## Live Link
+ - Access the live version here: [Vendor-Management-UI](https://vendor-management-ui-five.vercel.app/)
